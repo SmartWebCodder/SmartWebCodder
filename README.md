@@ -16,13 +16,44 @@ I build and run backend systems for payments, marketplaces and real-time product
 - **Marketplaces and SaaS:** multi-tenant platforms, software licensing, and metered APIs.
 - **Infrastructure and security:** Docker Compose, Nginx and Caddy, hardened Linux servers, backups, observability, and incident recovery.
 
+## Tech stack
+
+<p align="center">
+  <img src="https://akintoyenelson.com/tech/typescript.png" alt="TypeScript" title="TypeScript" height="44" />&nbsp;&nbsp;
+  <img src="https://akintoyenelson.com/tech/javascript.png" alt="JavaScript" title="JavaScript" height="44" />&nbsp;&nbsp;
+  <img src="https://akintoyenelson.com/tech/nodejs.svg" alt="Node.js" title="Node.js" height="44" />&nbsp;&nbsp;
+  <img src="https://akintoyenelson.com/tech/nestjs.svg" alt="NestJS" title="NestJS" height="44" />&nbsp;&nbsp;
+  <img src="https://akintoyenelson.com/tech/laravel.svg" alt="Laravel" title="Laravel" height="44" />&nbsp;&nbsp;
+  <img src="https://akintoyenelson.com/tech/go.svg" alt="Go" title="Go" height="44" />&nbsp;&nbsp;
+  <img src="https://akintoyenelson.com/tech/python.svg" alt="Python" title="Python" height="44" />
+</p>
+<p align="center">
+  <img src="https://akintoyenelson.com/tech/react.png" alt="React" title="React" height="44" />&nbsp;&nbsp;
+  <img src="https://akintoyenelson.com/tech/nextjs.webp" alt="Next.js" title="Next.js" height="44" />&nbsp;&nbsp;
+  <img src="https://akintoyenelson.com/tech/reactnative.svg" alt="React Native" title="React Native" height="44" />&nbsp;&nbsp;
+  <img src="https://akintoyenelson.com/tech/flutter.svg" alt="Flutter" title="Flutter" height="44" />&nbsp;&nbsp;
+  <img src="https://akintoyenelson.com/tech/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS" height="44" />&nbsp;&nbsp;
+  <img src="https://akintoyenelson.com/tech/html.svg" alt="HTML" title="HTML" height="44" />&nbsp;&nbsp;
+  <img src="https://akintoyenelson.com/tech/css.svg" alt="CSS" title="CSS" height="44" />
+</p>
+<p align="center">
+  <img src="https://akintoyenelson.com/tech/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" height="44" />&nbsp;&nbsp;
+  <img src="https://akintoyenelson.com/tech/mongodb.svg" alt="MongoDB" title="MongoDB" height="44" />&nbsp;&nbsp;
+  <img src="https://akintoyenelson.com/tech/redis.svg" alt="Redis" title="Redis" height="44" />&nbsp;&nbsp;
+  <img src="https://akintoyenelson.com/tech/docker.svg" alt="Docker" title="Docker" height="44" />&nbsp;&nbsp;
+  <img src="https://akintoyenelson.com/tech/git.svg" alt="Git" title="Git" height="44" />&nbsp;&nbsp;
+  <img src="https://akintoyenelson.com/tech/wordpress.svg" alt="WordPress" title="WordPress" height="44" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,vue,mysql,aws,kubernetes,nginx,linux,dart" alt="Also: PHP, Vue, MySQL, AWS, Kubernetes, Nginx, Linux, Dart" title="Also: PHP, Vue, MySQL, AWS, Kubernetes, Nginx, Linux, Dart" height="44" />
+</p>
+
 ## Selected work
 
 | Project | What it is | Stack |
 |---|---|---|
 | **Paysnap** | Fintech platform and mobile wallet: bill payments, gift cards, airtime and data | Next.js, React Native, NestJS, PostgreSQL |
 | **BlazzeBet** | White-label sportsbook for operators: betting engine, web app and admin dashboard | NestJS, PostgreSQL, Redis, Next.js |
-| **Kimo Games** | Play-and-earn gaming backend: wallets, tournaments and leaderboards | NestJS, Redis, React Native |
 | **Unispend** | Campus payments: student wallet top-ups, QR payments and transaction tracking | NestJS, MongoDB, React |
 | **ChopExpress** | Multi-tenant food delivery with live order tracking, plus rider and customer apps | Node.js, PostgreSQL, Prisma, Flutter |
 | **OnLicense** | Licence server and admin console for software activation, updates and add-ons | NestJS, PostgreSQL, Redis |
@@ -37,35 +68,26 @@ Most of my client work lives in private repositories. More projects are on my [p
 - **[winance](https://github.com/SmartWebCodder/winance):** cryptocurrency exchange mobile app. Flutter, Dart.
 - **[portfolio](https://github.com/SmartWebCodder/portfolio):** my portfolio site. Next.js, TypeScript.
 
-## Experience
+## GitHub activity
 
-| Company | Role | Years |
-|---|---|---|
-| Pandar Resources | Senior Backend Engineer | 2026 – present |
-| ODJTech Multimedia | Senior Backend Engineer | 2025 – 2026 |
-| Unispend | Senior Backend Engineer | 2025 – 2026 |
-| ChopExpress Ltd. | Lead Backend Engineer | 2024 – 2025 |
-| FastPay Tech | Full-Stack Engineer | 2023 – 2024 |
-| PPLELABS (Houston, TX) | Backend Engineer | 2022 |
-| Taskimony Inc. (Illinois) | Full-Stack Engineer | 2020 – 2022 |
-| NTech Info System | Junior Backend Engineer | 2018 – 2019 |
+Most of my work is in private repositories; these charts include private contributions.
 
-## Tech stack
-
-| Area | Tools |
-|---|---|
-| Languages | TypeScript, JavaScript, PHP, Go, Python, Dart, SQL |
-| Backend | NestJS, Node.js, Express, Laravel, Kafka, BullMQ |
-| Frontend and mobile | React, Next.js, Vue 3, Inertia.js, Tailwind CSS, Flutter, React Native |
-| Data | PostgreSQL, MySQL, MariaDB, MongoDB, Redis, Prisma, Drizzle |
-| Infrastructure | Docker, Kubernetes, GitHub Actions, Nginx, Caddy, Linux, AWS, Google Cloud, DigitalOcean, Grafana |
-
-## Education and recognition
-
-- B.Tech, Forestry and Wood Technology, Federal University of Technology, Akure (2023); Dean's List for First Class Honours
-- Best Grandeza FUTA Tech Innovator (2023)
-- Best Agricultural Tech Innovator, National Association of Agricultural Students (2023)
-- 1st runner-up, Wema Bank Hackaholics (2022)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SmartWebCodder&theme=tokyonight&hide_border=true" alt="Contribution streak: total contributions, current streak and longest streak" height="180" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SmartWebCodder&theme=tokyonight" alt="Contributions over time" />
+</p>
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=SmartWebCodder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub trophies" />
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SmartWebCodder/SmartWebCodder/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SmartWebCodder/SmartWebCodder/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/SmartWebCodder/SmartWebCodder/output/github-snake.svg" alt="A snake eating my contribution graph" />
+  </picture>
+</p>
 
 ---
 
