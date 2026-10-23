@@ -61,13 +61,6 @@ I build and run backend systems for payments, marketplaces and real-time product
 
 Most of my client work lives in private repositories. More projects are on my [portfolio](https://akintoyenelson.com/).
 
-## Public repositories
-
-- **[plantright-ai](https://github.com/SmartWebCodder/plantright-ai):** AI-driven forest restoration planning that weighs carbon sequestration, biodiversity and community benefit. TypeScript.
-- **[selar-clone](https://github.com/SmartWebCodder/selar-clone):** backend for a digital-product marketplace, with products, memberships and creator analytics. Node.js, TypeScript, Express, PostgreSQL, Prisma, JWT.
-- **[winance](https://github.com/SmartWebCodder/winance):** cryptocurrency exchange mobile app. Flutter, Dart.
-- **[portfolio](https://github.com/SmartWebCodder/portfolio):** my portfolio site. Next.js, TypeScript.
-
 ## GitHub activity
 
 Most of my work is in private repositories; these charts include private contributions.
